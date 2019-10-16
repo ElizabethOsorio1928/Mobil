@@ -1,0 +1,15 @@
+{
+ "short_name": "elipwa",
+ "name": "Ejemplo de PWA",
+ "start_url": "/index.html",
+ "display": "standalone",
+ "background_color": "salmon",
+ "theme_color": "black",
+ "icons": [
+   {
+     "src": "img/gato.png",
+     "sizes": "1024x1024",
+     "type": "image/png"
+   }
+ ]
+}
